@@ -1,5 +1,5 @@
 
-# ![img](https://www.kmit.in/images/kmit-bar.png) Student Blog
+# KMIT Student Blog
 
 
 A place for students to share their experiences and ideas.
