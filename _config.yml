@@ -4,6 +4,7 @@ description: "Classroom blogs where students can share their ideas."
 
 theme: "minima"
 github_username: "KMIT-Students"
+basewebsite: /blog-demo
 
 kramdown:
   syntax_highlighter_opts:
