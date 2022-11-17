@@ -1,5 +1,4 @@
 
 # KMIT Student Blog
-
-
-A place for students to share their experiences and ideas.
+  
+#### A place for students to share their experiences and ideas.
