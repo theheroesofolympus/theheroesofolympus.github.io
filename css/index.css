@@ -1,0 +1,30 @@
+body {
+   background:
+   linear-gradient(27deg, #eaeaea 5px, transparent 5px) 0 5px,
+   linear-gradient(207deg, #eaeaea 5px, transparent 5px) 10px 0px,
+   linear-gradient(27deg, #ddd 5px, transparent 5px) 0px 10px,
+   linear-gradient(207deg, #ddd 5px, transparent 5px) 10px 5px,
+   linear-gradient(90deg, #e4e4e4 10px, transparent 10px),
+   linear-gradient(#e2e2e2 25%, #e5e5e5 25%, #e5e5e5 50%, transparent 50%, transparent 75%, #dbdbdb 75%, #dbdbdb);
+   background-color: #ececec;
+   background-size: 20px 20px;
+}
+
+.site-title {
+   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+.footer-heading {
+   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+.footer-col-3 {
+    width: calc(35% - (40px / 2));
+    padding-left: 95px;
+    font-size: larger;
+    color: dimgray;
+}
+
+.p-name {color: dimgray;}
+
+.post-title {color: black;}
