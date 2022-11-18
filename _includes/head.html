@@ -4,18 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
-<!--   <link rel="stylesheet" href="{{ "/css/override.css" | prepend: site.baseurl }}"> -->
   {%- feed_meta -%}
   
   <!-- highlight.js support -->
-  <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
-  <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
+  <link rel="stylesheet" href="{{ "/js/highlightjs/styles/github.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/js/highlightjs/styles/ssms.css" | prepend: site.baseurl }}" /"{{ >
 
-  <script type="text/javascript" src="/js/highlightjs/highlight.min.js"></script>
+  <script type="text/javascript" src="{{ "/js/highlightjs/highlight.min.js" | prepend: site.baseurl }}"></script>
 
-  <script type="text/javascript" src="/js/highlightjs/languages/plaintext.min.js"></script>
-  <script type="text/javascript" src="/js/highlightjs/languages/powershell.min.js"></script>
-  <script type="text/javascript" src="/js/highlightjs/languages/tsql.min.js"></script>
+  <script type="text/javascript" src="{{ "/js/highlightjs/languages/plaintext.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/highlightjs/languages/powershell.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/highlightjs/languages/tsql.min.js" | prepend: site.baseurl }}"></script>
 
   <script type="text/javascript"> hljs.highlightAll(); </script>
   <!-- end highlight.js support -->
