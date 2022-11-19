@@ -1,4 +1,4 @@
-# KMIT Student Blog website demo
+# KMIT Student Blog website
 
 A place for students to share their experiences and ideas.
 
