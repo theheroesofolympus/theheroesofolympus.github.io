@@ -3,7 +3,7 @@ author: "KMIT Students"
 description: "Classroom blogs where students can share their ideas."
 
 
-baseurl: /blog-demo
+# baseurl: /blog-demo
 
 theme: "minima"
 github_username: "KMIT-Students"
