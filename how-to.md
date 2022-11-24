@@ -9,10 +9,11 @@
 ### Procedure:
 #### Step-1:
 Login to your GitHub account and go to [kmit-anubhav.github.io](https://github.com/KMIT-Anubhav/kmit-anubhav.github.com) repository and open the `_posts` folder.  
+
 ![posts](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/_posts.png)
 
 #### Step-2:
-Click `Add file` and select `Create new file`. Name the file as per the format YYYY-MM-DD-title.md.
+Click `Add file` and select `Create new file`. Name the file as per the format `YYYY-MM-DD-title.md`.
 - Title should not contain any spaces or hyphens `-`, use underscores `_` instead.
 - `.md` file extension is mandatory.  
   
