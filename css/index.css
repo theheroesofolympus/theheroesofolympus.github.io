@@ -21,10 +21,12 @@ body {
 
 .site-title {
    font-family: 'HeadlandOne';
+   font-weight: bold;
 }
 
 .footer-heading {
    font-family: 'HeadlandOne';
+   font-weight: bold;
 }
 
 .footer-col-3 {
