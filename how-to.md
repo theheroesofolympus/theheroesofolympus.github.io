@@ -17,6 +17,7 @@ Click `Add file` and select `Create new file`. Name the file as per the format Y
 - `.md` file extension is mandatory.  
   
 ![Addfile](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Addfile.png)  
+---
 ![Create](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Create.png)  
 
 #### Step-3:
@@ -42,4 +43,4 @@ Save the file by clicking `Propose/Commit new file` button at the bottom of the 
 You will now see an page that says `Comparing Changes`. Click The Green button saying `Create Pull Request`.  
 Change the name of Pull Request to the Title of your blog and click `Create Pull Request`.  
 Your file will now be reviewed and your blog will be posted soon.  
-Check https://kmit-anubhav.github.io to see if your blog is published. Note that this ***will*** take some time.
+Check [https://kmit-anubhav.github.io](https://kmit-anubhav.github.io) to see if your blog is published. Note that this ***will*** take some time.
