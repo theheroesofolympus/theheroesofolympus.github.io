@@ -10,12 +10,21 @@ body {
    background-size: 20px 20px;
 }
 
+
+@font-face {
+  font-family: 'HeadlandOne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNSSZ0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
 .site-title {
-   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+   font-family: 'HeadlandOne';
 }
 
 .footer-heading {
-   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+   font-family: 'HeadlandOne';
 }
 
 .footer-col-3 {
