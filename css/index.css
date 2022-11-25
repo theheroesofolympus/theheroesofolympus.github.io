@@ -12,17 +12,30 @@ body {
 
 
 @font-face {
-  font-family: 'HeadlandOne';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNSSZ0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+   font-family: 'HeadlandOne';
+   font-style: normal;
+   font-weight: 400;
+   src: url(https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNSSZ0.woff2) format('woff2');
+   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 .site-title {
    font-family: 'HeadlandOne';
-   font-weight: bold;
+   font-weight: 550;
 }
+
+.new-post {
+   float: right;
+   border: .5px solid #23bf56 ;
+   background-color: #28b463;
+   padding: 10px 20px;
+   box-shadow: 0 0 30px 0 #23bf56 ,
+               0 0 30px 0 #23bf56 ,
+               0 0 10px 0 #23bf56  inset;
+   border-radius: 10px;
+}
+
+.new-post:hover {background-color: #19ba78;}
 
 .footer-heading {
    font-family: 'HeadlandOne';
@@ -30,10 +43,10 @@ body {
 }
 
 .footer-col-3 {
-    width: calc(35% - (40px / 2));
-    padding-left: 95px;
-    font-size: larger;
-    color: dimgray;
+   width: calc(35% - (40px / 2));
+   padding-left: 95px;
+   font-size: larger;
+   color: dimgray;
 }
 
 .p-name {color: dimgray;}
