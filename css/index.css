@@ -21,14 +21,15 @@ body {
 
 .site-title {
    font-family: 'HeadlandOne';
-   font-weight: 550;
+   font-weight: 500;
 }
 
 .new-post {
    float: right;
    border: .5px solid #23bf56 ;
    background-color: #28b463;
-   padding: 10px 20px;
+   padding: 10px 20px;
+   font-size: 20px;
    box-shadow: 0 0 30px 0 #23bf56 ,
                0 0 30px 0 #23bf56 ,
                0 0 10px 0 #23bf56  inset;
@@ -39,7 +40,7 @@ body {
 
 .footer-heading {
    font-family: 'HeadlandOne';
-   font-weight: bold;
+   font-weight: 500;
 }
 
 .footer-col-3 {
