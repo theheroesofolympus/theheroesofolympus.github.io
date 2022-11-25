@@ -28,8 +28,8 @@ body {
    float: right;
    border: .5px solid #23bf56 ;
    background-color: #28b463;
-   padding: 10px 20px;
-   font-size: 20px;
+   padding: 10px 15px;
+   font-size: 18px;
    box-shadow: 0 0 30px 0 #23bf56 ,
                0 0 30px 0 #23bf56 ,
                0 0 10px 0 #23bf56  inset;
