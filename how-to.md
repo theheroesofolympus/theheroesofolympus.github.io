@@ -7,21 +7,28 @@
 2. Check that you are a member of [KMIT-Anubhav](https://github.com/KMIT-Anubhav) GitHub organisation. If not contact admins of Anubhav.
 
 ### Procedure:
-#### Step-1:
+<!-- #### Step-1:
 Login to your GitHub account and go to [kmit-anubhav.github.io](https://github.com/KMIT-Anubhav/kmit-anubhav.github.com) repository and open the `_posts` folder.  
 
 ![posts](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/_posts.png)
 
 #### Step-2:
-Click `Add file` and select `Create new file`. Name the file as per the format `YYYY-MM-DD-title.md`.
-- Title should not contain any spaces or hyphens `-`, use underscores `_` instead.
-- `.md` file extension is mandatory.  
-  
+Click `Add file` and select `Create new file`.  
 ![Addfile](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Addfile.png)  
 ---
-![Create](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Create.png)  
+![Create](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Create.png)   -->
+#### Step-1:
+Go to [https://kmit-anubhav.github.io](https://kmit-anubhav.github.io) and click on `Create New Post`.  
+Log in to your GitHub account that's associated with KMIT-Anubhav organisation if asked.
+
+#### Step-2:
+You will now be shown up an editor page.  
+Name the file as per the format `YYYY-MM-DD-title.md`.
+- Title should not contain any spaces or hyphens `-`, use underscores `_` instead.
+- `.md` file extension is mandatory.  
 
 #### Step-3:
+
 The file body must start with 
 ```
 ---
