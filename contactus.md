@@ -2,7 +2,7 @@
 
 ## For any queries contact admin : [kmitanubhav@gmail.com](mailto:kmitanubhav@gmail.com)
 
-### Instructions to join the kmit-anubhav organizations
+### Instructions to join the KMIT-Anubhav organization:
 Send your details to admin. You will soon be sent an invitation link via an email.
 ### Format of sending details:
 ```
