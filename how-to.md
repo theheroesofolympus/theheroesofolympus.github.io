@@ -56,7 +56,7 @@ Check [https://kmit-anubhav.github.io](https://kmit-anubhav.github.io) to see if
 ## Instructions to enable using comments on blogs:
 
 ### Prerequisites:
-1. A GitHub Account.
+- A GitHub Account.
 
 ### Procedure:
 - Go to the blog post on which you want to commit and click on `Sign in with GitHub` button.  
