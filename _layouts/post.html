@@ -2,6 +2,21 @@
 layout: default
 ---
 <link href={{ "/css/override.css" | prepend: site.baseurl }} rel="stylesheet" type="text/css">
+<script src="https://giscus.app/client.js"
+        data-repo="KMIT-Anubhav/kmit-anubhav.github.io"
+        data-repo-id="R_kgDOIdDT3w"
+        data-category="General"
+        data-category-id="DIC_kwDOIdDT384CS0gg"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -27,4 +42,7 @@ layout: default
   </div>
 
   <a class="u-url" href="{{ page.url | prepend: site.baseurl }}" hidden></a>
+  <hr>
+  <div class="giscus"></div>
 </article>
+<hr>
