@@ -52,3 +52,17 @@ You will now see an page that says `Comparing Changes`. Click The Green button s
 Change the name of Pull Request to the Title of your blog and click `Create Pull Request`.  
 Your file will now be reviewed and your blog will be posted soon.  
 Check [https://kmit-anubhav.github.io](https://kmit-anubhav.github.io) to see if your blog is published. Note that this ***will*** take some time.
+
+## Instructions to enable using comments on blogs:
+
+### Prerequisites:
+1. A GitHub Account.
+
+### Procedure:
+- Go to the blog post on which you want to commit and click on `Sign in with GitHub` button.  
+  
+![Comment](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/comment.png)  
+  
+- You will see a page that will request you to give permissions to Giscus via your github account. Accept it and you are ready to go.  
+  
+![Giscus](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/giscus.png)  
