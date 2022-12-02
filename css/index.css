@@ -23,6 +23,10 @@ body {
    font-weight: 600;
 }
 
+.site-nav .page-link {
+    font-family: 'Patrick Hand';
+}
+
 .new-post {
    float: right;
    border: .5px solid #23bf56 ;
@@ -60,9 +64,8 @@ body {
    .site-nav .page-link {
       display: block;
       padding: 10px 50px;
-      font-size: 24px;
-      font-family: 'Patrick Hand';
       text-align: center;
+      font-size: 24px;
       margin-left: 0;
   }
 }
