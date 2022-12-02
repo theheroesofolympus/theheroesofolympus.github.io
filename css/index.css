@@ -56,6 +56,16 @@ body {
     }
 }
 
+@media screen and (max-width: 800px) {
+   .site-nav .page-link {
+      display: block;
+      padding: 10px 50px;
+      font-size: 24px;
+      font-family: 'Patrick Hand';
+      text-align: center
+  }
+}
+
 .p-name {color: dimgray;}
 
 .post-title {color: black;}
